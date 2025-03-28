@@ -1,0 +1,19 @@
+pandas==2.1.0
+rdkit==2022.9.3
+pymatgen==2023.9.10
+addict== 2.4.0
+tqdm== 4.66.1
+yacs==0.1.8
+transformers==4.33.2
+wandb==0.15.10
+iopath
+lmdb== 1.4.1
+ml_collections==0.1.1
+numpy==1.26.0
+scipy==1.11.2
+tensorboardX==2.6.2.2
+tokenizers==0.13.3
+sklearn==0.0
+skunk==1.2.0
+umap-learn==0.5.3
+seaborn
