@@ -1,4 +1,4 @@
-# Data-Balanced Transformer for Accelerated LNPs Screening in mRNA Delivery
+# TransMA: an explainable multi-modal deep learning model for predicting properties of ionizable lipid nanoparticles in mRNA delivery
 
 ## TransMA
 
@@ -8,7 +8,7 @@ An overview of TransMA can be seen below:
 
 ![](./figure/figure2.png)
 
-## Getting Started
+## Getting Startedgit 
 
 ### Installation
 
