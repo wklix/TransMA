@@ -1,12 +1,12 @@
 # Data-Balanced Transformer for Accelerated LNPs Screening in mRNA Delivery
 
-## TransLNP
+## TransMA
 
 TransMA is an explainable LNPs transfection efficiency prediction model, which adopts a multi-modal molecular structure fusion architecture.  
 
 An overview of TransMA can be seen below:
 
-![](./figure/figure1.png)
+![](./figure/figure2.png)
 
 ## Getting Started
 
